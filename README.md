@@ -1,4 +1,4 @@
-Here are two solutions to the famous [100 door problem](https://rosettacode.org/wiki/100_doors), I found on Rosetta code.
+Here are two solutions to the famous [100 door problem](https://rosettacode.org/wiki/100_doors) (more information on Rosetta code).
 
 The first uses iteration, the second uses the modulo function.
 Each solution is timed to compare their efficiency against one another.
